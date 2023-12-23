@@ -10,7 +10,7 @@ gem "sprockets-rails"
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
-
+gem  'bootstrap'
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 
@@ -22,8 +22,9 @@ gem "turbo-rails"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
-gem 'bootsnap', require: false
-gem 'sassc', '~> 2.0'
+gem 'sassc-rails', '~> 2.1'
+gem 'bootsnap', '>= 1.5.1', require: false
+
 
 # Bundle and process CSS [https://github.com/rails/cssbundling-rails]
 gem "cssbundling-rails"
