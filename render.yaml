@@ -1,6 +1,6 @@
 databases:
   - name: mysite
-    databaseName: mysite_test
+    databaseName: mysite_development
     user: nayan
     plan: free
 
