@@ -140,6 +140,11 @@
   resolved "https://registry.npmjs.org/@rails/actioncable/-/actioncable-7.1.2.tgz#d261ff4b72844f5af496671346ec478798f4ac2c"
   integrity sha512-KGziTZfbmGm8/fHOpj515xupbYU+49hsp4etfdpoDJ/CEY2bRZR0cyFcJkpK6n0t/sxOHNWY6bo9vSgXZvT7Mg==
 
+bootstrap@^5.3.0:
+  version "5.3.2"
+  resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-5.3.2.tgz#97226583f27aae93b2b28ab23f4c114757ff16ae"
+  integrity sha512-D32nmNWiQHo94BKHLmOrdjlL05q1c8oxbtBphQFb9Z5to6eGRDCm0QgeaZ4zFBHzfg2++rqa2JkqCcxDy0sH0g==
+
 esbuild@^0.19.10:
   version "0.19.10"
   resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.19.10.tgz#55e83e4a6b702e3498b9f872d84bfb4ebcb6d16e"
