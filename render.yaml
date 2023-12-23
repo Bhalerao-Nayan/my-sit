@@ -1,7 +1,7 @@
 databases:
   - name: mysite
-    databaseName: mysite
-    user: mysite
+    databaseName: mysite_test
+    user: nayan
     plan: free
 
 services:
